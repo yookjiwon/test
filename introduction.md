@@ -7,7 +7,7 @@
 - C++
 <pre><code>{
     void main(){
-        #include \<iostream\>
+        \<"iostream"\>
         cout << "Hello World" << endl;
 
         return;
